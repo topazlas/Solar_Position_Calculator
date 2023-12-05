@@ -79,3 +79,4 @@ This repository contains Python scripts for extracting metadata from JPEG images
 
 ## License
 All code and documentation in this project are available under the [MIT License](https://opensource.org/licenses/MIT).
+See the [LICENSE file](./LICENSE) for details.
