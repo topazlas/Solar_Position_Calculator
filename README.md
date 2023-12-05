@@ -78,5 +78,4 @@ This repository contains Python scripts for extracting metadata from JPEG images
   - timezonefinder
 
 ## License
-
-This project is licensed under the MIT License 
+All code and documentation in this project are available under the [MIT License](https://opensource.org/licenses/MIT).
